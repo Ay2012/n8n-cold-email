@@ -1,0 +1,4 @@
+First Name,Last Name,Title,Company Name,Email,Industry,# Employees,Keywords,Technologies,Website,Company Linkedin Url,Person Linkedin Url,Status
+Alex,Rivera,Operations Manager,Example Tools,alex.rivera@example.com,Software,42,workflow automation,Python; PostgreSQL,https://example.com,https://example.com/company/example-tools,https://example.com/in/alex-rivera,new
+Jordan,Lee,Founder,Sample Labs,jordan.lee@example.com,Education,12,student onboarding,React; Node.js,https://example.com,https://example.com/company/sample-labs,https://example.com/in/jordan-lee,new
+Taylor,Morgan,Recruiting Lead,Demo Systems,taylor.morgan@example.com,Professional Services,85,internal tooling,Google Workspace; Zapier,https://example.com,https://example.com/company/demo-systems,https://example.com/in/taylor-morgan,new

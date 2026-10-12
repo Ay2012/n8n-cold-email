@@ -1,0 +1,38 @@
+{
+  "name": "Sanitized AI Outreach Draft Workflow Placeholder",
+  "description": "Placeholder only. Export your own n8n workflow and remove credentials, tokens, private file paths, real contact data, and resume content before committing.",
+  "nodes": [
+    {
+      "name": "Read CSV Batch",
+      "type": "placeholder",
+      "notes": "Read a private CSV from /files. Do not commit real data."
+    },
+    {
+      "name": "Limit For Testing",
+      "type": "placeholder",
+      "notes": "Limit to one row until the workflow is verified."
+    },
+    {
+      "name": "Company Research Model",
+      "type": "placeholder",
+      "notes": "Use the sanitized research prompts from prompts/."
+    },
+    {
+      "name": "Email Writer Model",
+      "type": "placeholder",
+      "notes": "Return JSON only with subject and email_body."
+    },
+    {
+      "name": "Clean Email Output",
+      "type": "placeholder",
+      "notes": "Use nodes/clean_email_output.js in an n8n Code node."
+    },
+    {
+      "name": "Gmail Create Draft",
+      "type": "placeholder",
+      "notes": "Create drafts only. Keep OAuth credentials in n8n."
+    }
+  ],
+  "credentials": {},
+  "private_data_included": false
+}

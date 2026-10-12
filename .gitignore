@@ -1,0 +1,15 @@
+.env
+files/
+n8n_data/
+*.log
+.DS_Store
+node_modules/
+**pycache**/
+**/__pycache__/
+*.pyc
+credentials/
+tokens/
+*.sqlite
+*.db
+*.pdf
+excel-div.py
